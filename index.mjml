@@ -1,0 +1,49 @@
+<mjml>
+    <mj-head>
+        <mj-title>Афиша Екатеринбурга</mj-title>
+        <mj-preview>Афиша Екатеринбурга</mj-preview>
+    </mj-head>
+    <mj-body max-width="600px">
+        <mj-hero background-color="#f7f7f7">
+            <mj-text align="center" color="#919191" padding="5px 5px 20px 5px" font-family="Tahoma, Geneva" font-size="12px" line-height="14px" letter-spacing=".4px"  >
+                Если письмо отображается некорректно, то <a href="https://ekb.kassy.ru" style="text-decoration: underline; color: inherit;" target="_blank">смотрите здесь
+            </mj-text>
+        </mj-hero>
+        <mj-wrapper padding="0px 0px" background-color="#8c0021">
+            <mj-section padding="0px 0px">
+                <mj-column>
+                    <mj-image width="600px" padding="50px 0px 15px 0px" align="center" src="/kassy_banner.png" href="https://ekb.kassy.ru" title="Городские зрелищные кассы" alt="Городские зрелищные кассы">
+                </mj-column>
+            </mj-section>
+       </mj-wrapper>
+
+        <mj-hero>
+            <mj-text color="#BEBEBE" font-family="Tahoma, Geneva" font-size="38px" line-height="42px" padding="50px 0px 0px 0px" align="center"><b>Афиша Екатеринбурга</mj-text>
+        </mj-hero>
+        <mj-section padding="0px 0px">
+            <mj-column padding="30px 0px">
+                <mj-image width="600px" padding="0px 0px"  align="center" src="/banner_habib.jpg" href="https://ekb.kassy.ru/shows/koncerty-i-shou/2-5961/" title="Специальное предложение - ХАБИБ" alt="Специальное предложение - ХАБИБ"> 
+            </mj-column>
+        </mj-section>
+        <mj-wrapper padding="0px 0px">
+            <mj-section padding="0px 0px">
+                <mj-column width="96%" padding="0px 10px">
+                    <mj-text color="#292929" font-family="Tahoma, Geneva" font-size="14px" line-height="20px" padding="0px 0px" align="center"><b><p>Сейчас он – успешный музыкант, видеоблогер с многотысячной аудиторией поклонниц. Сотрудничает со знаменитостями, пишет песни, снимает клипы.</mj-text>
+                    <mj-text color="#292929" font-family="Tahoma, Geneva" font-size="14px" line-height="20px" padding="0px 0px" align="center"><b><p>Во время выступления певец исполнит песни, ставшие хитами, такие как «Грустинка», «Девчонка со двора», «Ближе», ну и куда же без «Ягодки&nbsp;малинки», набравшей на You Tube уже более 290&nbsp;миллионов просмотров.</mj-text>
+                </mj-column>
+            </mj-section>
+        </mj-wrapper>
+        <mj-wrapper padding="0px 0px">
+            <mj-section padding="30px 0px 40px 0px">
+                <mj-column width="96%" padding="0px 10px">
+                    <mj-text color="#292929" font-family="Tahoma, Geneva" font-size="14px" line-height="20px" padding="0px 0px" align="center"><b>14 июня в 19:00 Дворец культуры железнодорожников</mj-text>
+                </mj-column>
+            </mj-section>
+        </mj-wrapper>
+        <mj-hero background-color="#BEBEBE">
+            <mj-text align="center" color="#ffffff" padding="10px 10px" font-family="Trebuchet MS" font-size="13px" line-height="17px" text-transform="uppercase">
+            <a href="https://ekb.kassy.ru/shows/koncerty-i-shou/2-5961/" style="text-decoration: none; color: inherit;" target="_blank"><b>Выбрать место
+            </mj-text>
+        </mj-hero>
+    </mj-body>
+</mjml>
